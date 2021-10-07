@@ -1,2 +1,2 @@
 # MAPSI-Machine_Learning
-Exercice portant sur différent algorithme de machine learning.
+Exercice portant sur différents algorithmes de machine learning.
